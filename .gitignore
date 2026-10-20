@@ -1,0 +1,6 @@
+cover.out
+*.test
+/vyshkat
+.idea/
+.vscode/
+.DS_Store
